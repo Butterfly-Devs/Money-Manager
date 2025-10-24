@@ -61,7 +61,7 @@ To prevent fraud, illegal activity, or protect the App’s rights and property.
 
 6. Children’s Privacy
 
-The App is not intended for children under 13. We do not knowingly collect information from children. If we discover that a child has submitted data, we will delete it promptly.
+The App is not intended for children under 10. We do not knowingly collect information from children. If we discover that a child has submitted data, we will delete it promptly.
 
 7. Changes to This Privacy Policy
 
