@@ -1,0 +1,84 @@
+Privacy Policy – Money Manager App
+
+Effective Date: October 2025
+
+Your privacy is important to us. This Privacy Policy explains how Money Manager App (“we,” “our,” or “the App”) collects, stores, and uses your personal information when you use the App. By using the App, you agree to the practices described in this policy.
+
+1. Information We Collect
+
+We collect information that is necessary to provide the App’s services:
+
+a. Information You Provide
+
+Financial data: income, expenses, investments, loans/debts, donations, and money in hand.
+
+Notes and contacts: any notes or contact information you choose to store in the app.
+
+Account adjustments: balance updates and fund management records.
+
+2. How We Use Your Information
+
+Your information is used only to provide and improve the App:
+
+To store, organize, and display your financial data via Firebase cloud storage.
+
+To enable synchronization across devices.
+
+To generate reports, summaries, and analytics inside the App.
+
+To troubleshoot issues and improve app functionality.
+
+We do NOT:
+
+Sell, trade, or rent your information to third parties.
+
+Share your financial data with advertisers.
+
+3. Data Storage and Security
+
+All user data is stored securely in Firebase Cloud Firestore.
+
+Firebase provides industry-standard encryption and security for all stored data.
+
+We implement additional security measures to protect your data from unauthorized access or misuse.
+
+Important: No system is completely secure; while we make efforts to protect your data, we cannot guarantee absolute security.
+
+4. Third-Party Services
+
+The App uses Firebase services, including:
+
+Authentication
+
+Cloud Firestore (for data storage)
+Note: Firebase may collect metadata as described in its privacy policy. We encourage you to review Firebase’s Privacy Policy.
+
+5. Data Sharing and Disclosure
+
+We will not share your personal data with third parties.
+To prevent fraud, illegal activity, or protect the App’s rights and property.
+
+
+6. Children’s Privacy
+
+The App is not intended for children under 13. We do not knowingly collect information from children. If we discover that a child has submitted data, we will delete it promptly.
+
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy.
+
+Updates will be posted in the App and/or on our website.
+
+The effective date at the top will reflect changes.
+
+8. Contact Us
+
+If you have questions about this Privacy Policy or your data, contact us:
+
+Email: butterflydevs@gmail.com
+
+GitHub: https://github.com/Butterfly-Devs/Money-Manager
+
+Web: https://www.qrcodechimp.com/page/nazmulhasan77
+
+By using the Money Manager App, you consent to this Privacy Policy and the storage of your data in Firebase.
